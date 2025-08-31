@@ -1,0 +1,174 @@
+1. Which of the following is the correct way to install TestNG in Eclipse?
+   A. Use Maven dependency only
+   B. Use Eclipse Marketplace
+   C. Download Eclipse plugin from GitHub
+   D. Install Java first
+   Answer: B
+
+2. Before installing TestNG in Eclipse, which prerequisite must be ensured?
+   A. Eclipse IDE installed
+   B. Python installed
+   C. Node.js installed
+   D. Selenium installed
+   Answer: A
+
+3. Which menu in Eclipse allows you to install TestNG via the Eclipse Marketplace?
+   A. File → New → Project
+   B. Help → Eclipse Marketplace
+   C. Window → Preferences
+   D. Project → Build Path
+   Answer: B
+
+4. What is the correct URL to install TestNG via the “Install New Software” option?
+   A. [https://testng.org/testng-eclipse-update-site](https://testng.org/testng-eclipse-update-site)
+   B. [https://www.selenium.dev/downloads](https://www.selenium.dev/downloads)
+   C. [https://maven.apache.org/plugins](https://maven.apache.org/plugins)
+   D. [https://eclipse.org/marketplace/testng](https://eclipse.org/marketplace/testng)
+   Answer: A
+
+5. After installing TestNG in Eclipse, which of the following indicates successful installation?
+   A. Eclipse restart prompt appears
+   B. TestNG option appears in “New → Other” menu
+   C. Eclipse throws no error
+   D. All of the above
+   Answer: D
+
+6. Which type of Eclipse update site is used for installing TestNG?
+   A. Local repository only
+   B. Remote software site URL
+   C. Git repository
+   D. Maven repository
+   Answer: B
+
+7. Which Eclipse version is recommended for installing TestNG without compatibility issues?
+   A. Eclipse IDE for Java Developers
+   B. Eclipse IDE for C/C++ Developers
+   C. Eclipse IDE for JavaScript Developers
+   D. Any version works
+   Answer: A
+
+8. If TestNG is not visible in Eclipse after installation, what is the first thing you should do?
+   A. Reinstall Java
+   B. Restart Eclipse
+   C. Uninstall Selenium
+   D. Delete workspace
+   Answer: B
+
+9. How can TestNG be installed using Maven in Eclipse?
+   A. Add TestNG dependency in `pom.xml`
+   B. Add TestNG jar manually to Eclipse
+   C. Use Eclipse Marketplace
+   D. None of the above
+   Answer: A
+
+10. After installing TestNG, which feature can you use immediately in Eclipse?
+    A. Creating TestNG test classes
+    B. Running tests with TestNG runner
+    C. Generating test reports
+    D. All of the above
+    Answer: D
+
+11. Which plugin type is TestNG for Eclipse?
+    A. JavaScript plugin
+    B. Java testing framework plugin
+    C. Database plugin
+    D. Python plugin
+    Answer: B
+
+12. TestNG installation in Eclipse is mainly used for?
+    A. Frontend design
+    B. Automated testing
+    C. Database management
+    D. Version control
+    Answer: B
+
+13. Which Eclipse perspective is commonly used after TestNG installation?
+    A. Debug perspective
+    B. Java perspective
+    C. Git perspective
+    D. Database perspective
+    Answer: B
+
+14. What is a common file extension for TestNG test suite files?
+    A. .xml
+    B. .txt
+    C. .java
+    D. .html
+    Answer: A
+
+15. Which menu allows you to run a TestNG test after installation?
+    A. Run → Run As → TestNG Test
+    B. File → New
+    C. Window → Preferences
+    D. Help → Eclipse Marketplace
+    Answer: A
+
+16. How can you verify the installed TestNG version in Eclipse?
+    A. Help → About Eclipse → Installation Details
+    B. File → Open
+    C. Window → Perspective
+    D. Project → Build Path
+    Answer: A
+
+17. If TestNG plugin fails to install, what is a recommended step?
+    A. Check Eclipse version compatibility
+    B. Ignore the error
+    C. Uninstall Java
+    D. Delete all projects
+    Answer: A
+
+18. Can TestNG be installed manually by downloading the JAR in Eclipse?
+    A. Yes, by adding it to Build Path
+    B. No, it only works via Marketplace
+    C. No, requires Python
+    D. Only via Maven
+    Answer: A
+
+19. Which feature is enabled in Eclipse after TestNG installation?
+    A. Test grouping and prioritization
+    B. UI design editor
+    C. Git integration
+    D. Database query editor
+    Answer: A
+
+20. TestNG in Eclipse primarily supports which programming language?
+    A. Python
+    B. Java
+    C. C++
+    D. JavaScript
+    Answer: B
+
+21. Which annotation in TestNG is used to execute a method before any test method in the current class?
+    A. @BeforeSuite
+    B. @BeforeTest
+    C. @BeforeClass
+    D. @BeforeMethod
+    Answer: C
+
+22. How can you run a specific group of TestNG tests from Eclipse?
+    A. Configure groups in the testng.xml file and run
+    B. Only by running all tests
+    C. Using Maven plugin only
+    D. By modifying Java version
+    Answer: A
+
+23. Which TestNG feature allows execution of test methods in a specific order?
+    A. Test groups
+    B. Test priorities
+    C. Test dependencies
+    D. Test reports
+    Answer: B
+
+24. How can you generate TestNG reports in Eclipse?
+    A. Right-click testng.xml → Run As → TestNG Suite
+    B. File → Export → Report
+    C. Help → About Eclipse
+    D. Window → Preferences
+    Answer: A
+
+25. Which TestNG annotation is used to execute a method after all test methods in a class have run?
+    A. @AfterSuite
+    B. @AfterTest
+    C. @AfterClass
+    D. @AfterMethod
+    Answer: C
